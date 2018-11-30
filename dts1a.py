@@ -53,7 +53,6 @@ def lg(l1=sl[0]):
             j=j+1
     k=menu(links)
     os.system("clear")
-    menu()
     s=url[k]
     s1=s1+links[k]
     print(s1," selected ")
